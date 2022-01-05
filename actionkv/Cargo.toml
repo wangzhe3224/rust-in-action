@@ -17,3 +17,7 @@ path = "src/lib.rs"
 [[bin]]
 name = "akv_mem"
 path = "src/akv_mem.rs"
+
+[[bin]]
+name = "akv_disk"
+path = "src/akv_disk.rs"
